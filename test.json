@@ -10,7 +10,7 @@
       "changeable": 1,
       "ext": "./json/jianpian.json"
     }
-  ]
+  ],
   "doh": [
     {
       "name": "Google",
@@ -54,7 +54,7 @@
         "149.112.112.112"
       ]
     }
-  ]
+  ],
   "ads": [
     "static-mozai.4gtv.tv"
   ]
