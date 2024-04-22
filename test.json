@@ -2,16 +2,17 @@
   "spider": "./jar/custom_spider.jar;md5;eb9ef1e338ee3b01ef1c1c388841d7bb",
   "sites": [
     {
-      "key": "賤賤",
+      "key": "csp_JianPian",
       "name": "荐片-JP",
       "type": 3,
-      "api": "csp_Jianpian",
+      "api": "csp_JianPian",
+      "playerType": 1,
       "searchable": 1,
-      "changeable": 1,
-      "ext": "./json/jianpian.json"
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
-      "key": "csp_XYQHiker_Vidhub视频库",
+      "key": "csp_Vidhub",
       "name": "Vidhub-VH",
       "type": 3,
       "api": "csp_XYQHiker",
