@@ -13,13 +13,6 @@
 			"ext": "https://ownjpykxttjzuhy.jiesiwa.com"
 		},
 		{
-			"key": "drpy_js_aiqiyi",
-			"name": "aiqiyi",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"ext": "./js/aiqiyi.js"
-		},
-		{
 			"key": "csp_XYQHiker_电影港",
 			"name": "电影港-DYG",
 			"type": 3,
@@ -28,6 +21,13 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "./json/dianyinggang.json"
+		},
+		{
+			"key": "drpy_js_aiqiyi",
+			"name": "aiqiyi",
+			"type": 3,
+			"api": "./lib/drpy2.min.js",
+			"ext": "./js/aiqiyi.js"
 		}
 	],
 	"lives": [
