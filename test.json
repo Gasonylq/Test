@@ -3,7 +3,7 @@
   "sites": [
     {
       "key": "csp_JianPian",
-      "name": "荐片-JP",
+      "name": "🔨荐片",
       "type": 3,
       "api": "csp_JianPian",
       "playerType": 1,
@@ -12,8 +12,8 @@
       "filterable": 1
     },
     {
-      "key": "csp_Vidhub",
-      "name": "Vidhub-VH",
+      "key": "csp_XYQHiker_Vidhub视频库",
+      "name": "🎥Vidhub视频库(XYQH)",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
