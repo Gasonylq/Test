@@ -10,10 +10,10 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./json/jianpian.json"
+			"ext": "https://ownjpykxttjzuhy.jiesiwa.com"
 		},
 		{
-			"key": "csp_XYQHiker_Vidhub视频库",
+			"key": "csp_XYQHiker_Vidhub",
 			"name": "Vidhub-VH",
 			"type": 3,
 			"api": "csp_XYQHiker",
