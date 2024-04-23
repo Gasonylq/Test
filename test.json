@@ -1,5 +1,5 @@
 {
-	"spider": "./jar/XYQ.jar;md5;0578e48b03db152d0f0bbb03704d4ab5",
+	"spider": "./jar/pg.jar;md5;8f2a569cfcda16355492af87387b40d6",
 	"sites": [
 		{
 			"key": "csp_JianPian",
