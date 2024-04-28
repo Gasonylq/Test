@@ -1,15 +1,14 @@
 {
 	"sites": [
 		{
-			"key": "csp_JianPian",
-			"name": "荐片-JP",
+			"key": "csp_XYQHiker_电影港",
+			"name": "电影港-DYG",
 			"type": 3,
-			"api": "csp_JianPian",
-			"playerType": 1,
+			"api": "csp_XYQHiker",
 			"searchable": 1,
 			//"quickSearch": 1,
 			//"filterable": 1,
-			"ext": "https://ownjpykxttjzuhy.jiesiwa.com"
+			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQHiker/%E7%94%B5%E5%BD%B1%E6%B8%AF%E7%A3%81%E5%8A%9B.json"
 		}
 	],
 	"parses": [
