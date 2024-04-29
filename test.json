@@ -8,9 +8,9 @@
 			"api": "csp_JianPian",
 			"playerType": 1,
 			"searchable": 1,
-			//"quickSearch": 1,
-			//"filterable": 1,
-			"ext": "https://ownjpykxttjzuhy.jiesiwa.com"
+			"quickSearch": 1,
+			"filterable": 1
+			//"ext": "https://ownjpykxttjzuhy.jiesiwa.com"
 		},
 		{
 			"key": "csp_XYQHiker_电影港",
