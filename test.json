@@ -18,8 +18,8 @@
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
-			//"quickSearch": 1,
-			//"filterable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
 			"ext": "./json/dianyinggang.json"
 		},
 		{"key": "drpy_js_aiqiyi","name": "aiqiyi","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/aiqiyi.js"},
