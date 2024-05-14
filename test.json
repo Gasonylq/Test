@@ -2,17 +2,6 @@
 	"spider": "./jar/XYQ.jar",
 	"sites": [
 		{
-			"key": "csp_JianPian",
-			"name": "荐片-JP",
-			"type": 3,
-			"api": "csp_JianPian",
-			"playerType": 1,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://oiuzy.haitu33.com"
-		},
-		{
 			"key": "csp_XYQHiker_电影港",
 			"name": "电影港-DYG",
 			"type": 3,
